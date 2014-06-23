@@ -1,0 +1,20 @@
+===============================================================
+Getting and Cleaning Data Course Project
+CODEBOOK
+Version 1.0 (BETA)
+===============================================================
+Roberto Kao
+New College of Florida 
+5800 Bay Shore Road
+Sarasota, FL 34243
+===============================================================
+
+This is the codebook for run_analysis.R. I will do my best to decribe the variables, data sets, and processes in which
+to obtain my tidy data set. Let's begin.
+
+===============================================================
+(Variables)
+Subject ID -> ID of volunteer; there are 30 in total, range is 1-30.
+Activity -> name of activity each volunteer performed. 
+
+(There is 8 minutes left before submission deadline. I cannot complete this. Sorry. Please go easy on me.)
